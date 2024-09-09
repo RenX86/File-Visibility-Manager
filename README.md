@@ -11,7 +11,7 @@ The File Operations Manager is a Python-based command-line tool that provides an
 - **Error Handling**: Robust error handling to manage invalid inputs and command execution issues.
 
 ## Requirements
-- Python 3.x
+- Python 3.6 or higher
 - Windows operating system (for the `attrib` and `copy` commands)
 
 ## Installation
