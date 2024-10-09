@@ -1,4 +1,4 @@
-# File Operations Manager
+# File Visibility Manager
 
 ## Description
 The File Operations Manager is a Python-based command-line tool that provides an easy-to-use interface for performing various file and folder operations. It allows users to conceal (hide) folders, reveal (unhide) folders, and blend files (combine an image with a zip file).
@@ -17,7 +17,7 @@ The File Operations Manager is a Python-based command-line tool that provides an
 ## Installation
 1. Clone this repository or download the necessary files:
    ```bash
-   git clone https://github.com/RenX86/FileOpsManager.git
+   git clone https://github.com/RenX86/File-Visibility-Manager.git
 Or download the FileOpsManager.py and FileOpsManager.bat files directly.
 
 2. Ensure you have Python 3.x installed on your system.
